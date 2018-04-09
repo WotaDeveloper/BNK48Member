@@ -5,7 +5,7 @@
     "nativesongname":"อยากจะได้พบเธอ",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Music",
     "album":"Aitakatta",
     "status":"Main"
   },
@@ -15,7 +15,7 @@
     "nativesongname":"ก็ชอบให้รู้ว่าชอบ",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Music",
     "album":"Aitakatta",
     "status":"Support"
   },
@@ -25,7 +25,7 @@
     "nativesongname":"365 วันกับเครื่องบินกระดาษ",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Jennis",
     "album":"Aitakatta",
     "status":"Support"
   },
@@ -35,7 +35,7 @@
     "nativesongname":"คุกกี้เสี่ยงทาย",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Mobile",
     "album":"Koisuru Fortune Cookie",
     "status":"Main"
   },
@@ -45,7 +45,7 @@
     "nativesongname":"บีเอนเคโฟร์ตี้เอท (เพลงชาติ)",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Cherprang",
     "album":"Koisuru Fortune Cookie",
     "status":"Support"
   },
@@ -55,7 +55,7 @@
     "nativesongname":"พลิ้ว",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":["Mind","Jaa"],
     "album":"Koisuru Fortune Cookie",
     "status":"Support"
   },
@@ -65,7 +65,7 @@
     "nativesongname":"วันแรก",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":["Music","Noey"],
     "album":"Shonichi",
     "status":"Main"
   },
@@ -85,7 +85,7 @@
     "nativesongname":"ประกายน้ำตาและรอยยิ้ม",
     "lauchdate":"",
     "senbatsu":[],
-    "center":"",
+    "center":"Tarwann",
     "album":"Shonichi",
     "status":"Support"
   },
@@ -94,8 +94,7 @@
     "songname":"Anata to Chrismas Eve",
     "nativesongname":"คำสัญญาแห่งคริสต์มาสอีฟ",
     "lauchdate":"",
-    "senbatsu":[],
-    "center":"",
+    "unit":["Kaew","Jan"],
     "album":"",
     "status":"Support"
   },
