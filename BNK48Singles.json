@@ -108,5 +108,16 @@
     "center":"",
     "album":"",
     "status":""
+  },
+  {
+    "id":12,
+    "songname":"ชู้กะชู้",
+    "nativesongname":"ชู้กะชู้",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"",
+    "status":"Collaboration",
+    "collabwith":"Aeh Syndrome"
   }
 ]
