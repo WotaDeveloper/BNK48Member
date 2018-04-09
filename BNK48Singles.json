@@ -1,0 +1,112 @@
+[
+  {
+    "id":1,
+    "songname":"Aitakatta",
+    "nativesongname":"อยากจะได้พบเธอ",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Aitakatta",
+    "status":"Main"
+  },
+  {
+    "id":2,
+    "songname":"Oogoe Diamond",
+    "nativesongname":"ก็ชอบให้รู้ว่าชอบ",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Aitakatta",
+    "status":"Support"
+  },
+  {
+    "id":3,
+    "songname":"",
+    "nativesongname":"365 วันกับเครื่องบินกระดาษ",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Aitakatta",
+    "status":"Support"
+  },
+  {
+    "id":4,
+    "songname":"Koisuru Fortune Cookie",
+    "nativesongname":"คุกกี้เสี่ยงทาย",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Koisuru Fortune Cookie",
+    "status":"Main"
+  },
+  {
+    "id":5,
+    "songname":"BNK48",
+    "nativesongname":"บีเอนเคโฟร์ตี้เอท (เพลงชาติ)",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Koisuru Fortune Cookie",
+    "status":"Support"
+  },
+  {
+    "id":6,
+    "songname":"Skirt, Hikari",
+    "nativesongname":"พลิ้ว",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Koisuru Fortune Cookie",
+    "status":"Support"
+  },
+  {
+    "id":7,
+    "songname":"Shonichi",
+    "nativesongname":"วันแรก",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Shonichi",
+    "status":"Main"
+  },
+  {
+    "id":8,
+    "songname":"Sakura no Hanabiratachi",
+    "nativesongname":"ความทรงจำและคำอำลา",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Shonichi",
+    "status":"Support"
+  },
+  {
+    "id":9,
+    "songname":"Namida Surprise",
+    "nativesongname":"ประกายน้ำตาและรอยยิ้ม",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"Shonichi",
+    "status":"Support"
+  },
+  {
+    "id":10,
+    "songname":"Anata to Chrismas Eve",
+    "nativesongname":"คำสัญญาแห่งคริสต์มาสอีฟ",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"",
+    "status":"Support"
+  },
+  {
+    "id":11,
+    "songname":"River",
+    "nativesongname":"",
+    "lauchdate":"",
+    "senbatsu":[],
+    "center":"",
+    "album":"",
+    "status":""
+  }
+]
