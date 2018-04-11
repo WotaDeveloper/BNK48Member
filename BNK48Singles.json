@@ -3,7 +3,7 @@
     "id":1,
     "songname":"Aitakatta",
     "nativesongname":"อยากจะได้พบเธอ",
-    "lauchdate":"",
+    "lauchdate":"08-08-2017",
     "senbatsu":["Music","Cherprang","Can","Jaa","Jan","Jennis","Kaew","Kaimook","Miori"
                ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
     "center":"Music",
@@ -14,7 +14,7 @@
     "id":2,
     "songname":"Oogoe Diamond",
     "nativesongname":"ก็ชอบให้รู้ว่าชอบ",
-    "lauchdate":"",
+    "lauchdate":"08-08-2017",
     "senbatsu":["Music","Cherprang","Can","Jaa","Jan","Jennis","Kaew","Kaimook","Miori"
                ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
     "center":"Music",
@@ -25,7 +25,7 @@
     "id":3,
     "songname":"365 Nichi no Kamihikouki",
     "nativesongname":"365 วันกับเครื่องบินกระดาษ",
-    "lauchdate":"",
+    "lauchdate":"08-08-2017",
     "senbatsu":["Jennis","Music","Cherprang","Can","Jaa","Jan","Kaew","Kaimook","Miori"
                ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
     "center":"Jennis",
@@ -36,7 +36,7 @@
     "id":4,
     "songname":"Koisuru Fortune Cookie",
     "nativesongname":"คุกกี้เสี่ยงทาย",
-    "lauchdate":"14-12-2560",
+    "lauchdate":"14-12-2017",
     "senbatsu":["Mobile","Cherprang","Izurina","Jan","Jennis","Kaew","Kaimook","Miori"
                ,"Music","Namnueng","Noey","Orn","Pun","Pupe","Satchan","Tarwaan"],
     "center":"Mobile",
@@ -47,7 +47,7 @@
     "id":5,
     "songname":"BNK48",
     "nativesongname":"บีเอนเคโฟร์ตี้เอท (เพลงชาติ)",
-    "lauchdate":"",
+    "lauchdate":"14-12-2017",
     "senbatsu":["Cherprang","Mobile","Izurina","Jan","Jennis","Kaew","Kaimook","Miori"
                ,"Music","Namnueng","Noey","Orn","Pun","Pupe","Satchan","Tarwaan"],
     "center":"Cherprang",
@@ -58,7 +58,7 @@
     "id":6,
     "songname":"Skirt, Hikari",
     "nativesongname":"พลิ้ว",
-    "lauchdate":"",
+    "lauchdate":"14-12-2017",
     "senbatsu":["Jaa","Mind","Jane","Jib","Kate","Namsai","Nink"],
     "center":["Mind","Jaa"],
     "album":"Koisuru Fortune Cookie",
@@ -80,9 +80,9 @@
     "id":8,
     "songname":"Sakura no Hanabiratachi",
     "nativesongname":"ความทรงจำและคำอำลา",
-    "lauchdate":"",
-    "senbatsu":[],
-    "center":"",
+    "lauchdate":null,
+    "senbatsu":null,
+    "center":null,
     "album":"Shonichi",
     "status":"Support"
   },
@@ -90,7 +90,7 @@
     "id":9,
     "songname":"Namida Surprise",
     "nativesongname":"ประกายน้ำตาและรอยยิ้ม",
-    "lauchdate":"",
+    "lauchdate":"28-03-2018",
     "senbatsu":["Tarwaan","Cherprang","Can","Izurina","Jennis","Kate","Korn"
                ,"Miori","Mobile","Music","Namsai","Noey","Orn","Pun","Nink"
                ,"Piam"],
@@ -102,7 +102,7 @@
     "id":10,
     "songname":"Anata to Chrismas Eve",
     "nativesongname":"คำสัญญาแห่งคริสต์มาสอีฟ",
-    "lauchdate":"",
+    "lauchdate":"28-03-2018",
     "unit":["Kaew","Jan"],
     "album":"",
     "status":"Support"
@@ -110,22 +110,23 @@
   {
     "id":11,
     "songname":"River",
-    "nativesongname":"",
-    "lauchdate":"",
+    "nativesongname":"River",
+    "lauchdate":null,
     "senbatsu":["Orn","Kaew","Noey","Namnueng","Tarwaan","Korn","Cherprang","Pun"
                ,"Jennis","Music","Mobile","Pupe","Jane","Can","Piam","Namsai"],
     "center":"Orn",
-    "album":"",
-    "status":""
+    "album":"River",
+    "status":"Main"
   },
   {
     "id":12,
     "songname":"ชู้กะชู้",
     "nativesongname":"ชู้กะชู้",
-    "lauchdate":"",
-    "senbatsu":[],
-    "center":"",
-    "album":"",
+    "lauchdate":"12-03-2018",
+    "senbatsu":["Cherprang","Tarwaan","Jennis","Pupe","Noey","Kate","Jane","Namnueng"
+               ,"Miori","Jaa","Kaew","Can","Mind","Orn","Namsai","Music","Pun","Mobile"
+               ,"Izurina","Jib","Korn","Kaimook","Satchan","Nink","Piam","Maysa"],
+    "album":null,
     "status":"Collaboration",
     "collabwith":"Aeh Syndrome"
   }
