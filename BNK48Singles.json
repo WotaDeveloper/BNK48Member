@@ -123,9 +123,9 @@
     "songname":"ชู้กะชู้",
     "nativesongname":"ชู้กะชู้",
     "lauchdate":"12-03-2018",
-    "senbatsu":["Cherprang","Tarwaan","Jennis","Pupe","Noey","Kate","Jane","Namnueng"
-               ,"Miori","Jaa","Kaew","Can","Mind","Orn","Namsai","Music","Pun","Mobile"
-               ,"Izurina","Jib","Korn","Kaimook","Satchan","Nink","Piam","Maysa"],
+    "unitmember":["Cherprang","Tarwaan","Jennis","Pupe","Noey","Kate","Jane","Namnueng"
+                 ,"Miori","Jaa","Kaew","Can","Mind","Orn","Namsai","Music","Pun","Mobile"
+                 ,"Izurina","Jib","Korn","Kaimook","Satchan","Nink","Piam","Maysa"],
     "album":null,
     "status":"Collaboration",
     "collabwith":"Aeh Syndrome"
