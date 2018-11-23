@@ -1,133 +1,234 @@
-[
-  {
-    "id":1,
-    "songname":"Aitakatta",
-    "nativesongname":"อยากจะได้พบเธอ",
-    "lauchdate":"08-08-2017",
-    "senbatsu":["Music","Cherprang","Can","Jaa","Jan","Jennis","Kaew","Kaimook","Miori"
-               ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
-    "center":"Music",
-    "album":"Aitakatta",
-    "status":"Main"
+[{
+    "id": 1,
+    "songname": "Aitakatta",
+    "nativesongname": "อยากจะได้พบเธอ",
+    "lauchdate": "08-08-2017",
+    "senbatsu": ["Music", "Cherprang", "Can", "Jaa", "Jan", "Jennis", "Kaew", "Kaimook", "Miori", "Namhom", "Namnueng", "Noey", "Orn", "Pun", "Satchan", "Tarwaan"],
+    "center": "Music",
+    "album": "Aitakatta",
+    "status": "Main"
   },
   {
-    "id":2,
-    "songname":"Oogoe Diamond",
-    "nativesongname":"ก็ชอบให้รู้ว่าชอบ",
-    "lauchdate":"08-08-2017",
-    "senbatsu":["Music","Cherprang","Can","Jaa","Jan","Jennis","Kaew","Kaimook","Miori"
-               ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
-    "center":"Music",
-    "album":"Aitakatta",
-    "status":"Support"
+    "id": 2,
+    "songname": "Oogoe Diamond",
+    "nativesongname": "ก็ชอบให้รู้ว่าชอบ",
+    "lauchdate": "08-08-2017",
+    "senbatsu": ["Music", "Cherprang", "Can", "Jaa", "Jan", "Jennis", "Kaew", "Kaimook", "Miori", "Namhom", "Namnueng", "Noey", "Orn", "Pun", "Satchan", "Tarwaan"],
+    "center": "Music",
+    "album": "Aitakatta",
+    "status": "Support"
   },
   {
-    "id":3,
-    "songname":"365 Nichi no Kamihikouki",
-    "nativesongname":"365 วันกับเครื่องบินกระดาษ",
-    "lauchdate":"08-08-2017",
-    "senbatsu":["Jennis","Music","Cherprang","Can","Jaa","Jan","Kaew","Kaimook","Miori"
-               ,"Namhom","Namnueng","Noey","Orn","Pun","Satchan","Tarwaan"],
-    "center":"Jennis",
-    "album":"Aitakatta",
-    "status":"Support"
+    "id": 3,
+    "songname": "365 Nichi no Kamihikouki",
+    "nativesongname": "365 วันกับเครื่องบินกระดาษ",
+    "lauchdate": "08-08-2017",
+    "senbatsu": ["Jennis", "Music", "Cherprang", "Can", "Jaa", "Jan", "Kaew", "Kaimook", "Miori", "Namhom", "Namnueng", "Noey", "Orn", "Pun", "Satchan", "Tarwaan"],
+    "center": "Jennis",
+    "album": "Aitakatta",
+    "status": "Support"
   },
   {
-    "id":4,
-    "songname":"Koisuru Fortune Cookie",
-    "nativesongname":"คุกกี้เสี่ยงทาย",
-    "lauchdate":"14-12-2017",
-    "senbatsu":["Mobile","Cherprang","Izurina","Jan","Jennis","Kaew","Kaimook","Miori"
-               ,"Music","Namnueng","Noey","Orn","Pun","Pupe","Satchan","Tarwaan"],
-    "center":"Mobile",
-    "album":"Koisuru Fortune Cookie",
-    "status":"Main"
+    "id": 4,
+    "songname": "Koisuru Fortune Cookie",
+    "nativesongname": "คุกกี้เสี่ยงทาย",
+    "lauchdate": "14-12-2017",
+    "senbatsu": ["Mobile", "Cherprang", "Izurina", "Jan", "Jennis", "Kaew", "Kaimook", "Miori", "Music", "Namnueng", "Noey", "Orn", "Pun", "Pupe", "Satchan", "Tarwaan"],
+    "center": "Mobile",
+    "album": "Koisuru Fortune Cookie",
+    "status": "Main"
   },
   {
-    "id":5,
-    "songname":"BNK48",
-    "nativesongname":"บีเอนเคโฟร์ตี้เอท (เพลงชาติ)",
-    "lauchdate":"14-12-2017",
-    "senbatsu":["Cherprang","Mobile","Izurina","Jan","Jennis","Kaew","Kaimook","Miori"
-               ,"Music","Namnueng","Noey","Orn","Pun","Pupe","Satchan","Tarwaan"],
-    "center":"Cherprang",
-    "album":"Koisuru Fortune Cookie",
-    "status":"Support"
+    "id": 5,
+    "songname": "BNK48",
+    "nativesongname": "บีเอนเคโฟร์ตี้เอท (เพลงชาติ)",
+    "lauchdate": "14-12-2017",
+    "senbatsu": ["Cherprang", "Mobile", "Izurina", "Jan", "Jennis", "Kaew", "Kaimook", "Miori", "Music", "Namnueng", "Noey", "Orn", "Pun", "Pupe", "Satchan", "Tarwaan"],
+    "center": "Cherprang",
+    "album": "Koisuru Fortune Cookie",
+    "status": "Support"
   },
   {
-    "id":6,
-    "songname":"Skirt, Hikari",
-    "nativesongname":"พลิ้ว",
-    "lauchdate":"14-12-2017",
-    "unit":["Jaa","Mind","Jane","Jib","Kate","Namsai","Nink"],
-    "center":["Mind","Jaa"],
-    "album":"Koisuru Fortune Cookie",
-    "status":"Support"
+    "id": 6,
+    "songname": "Skirt, Hikari",
+    "nativesongname": "พลิ้ว",
+    "lauchdate": "14-12-2017",
+    "unit": ["Jaa", "Mind", "Jane", "Jib", "Kate", "Namsai", "Nink"],
+    "center": ["Mind", "Jaa"],
+    "album": "Koisuru Fortune Cookie",
+    "status": "Support"
   },
   {
-    "id":7,
-    "songname":"Shonichi",
-    "nativesongname":"วันแรก",
-    "lauchdate":"28-03-2018",
-    "senbatsu":["Music","Noey","Cherprang","Jaa","Jane","Jennis","Kaew"
-               ,"Kaimook","Korn","Mobile","Namnueng","Orn","Pun","Pupe"
-               ,"Satchan","Tarwaan"],
-    "center":["Music","Noey"],
-    "album":"Shonichi",
-    "status":"Main"
+    "id": 7,
+    "songname": "Shonichi",
+    "nativesongname": "วันแรก",
+    "lauchdate": "28-03-2018",
+    "senbatsu": ["Music", "Noey", "Cherprang", "Jaa", "Jane", "Jennis", "Kaew", "Kaimook", "Korn", "Mobile", "Namnueng", "Orn", "Pun", "Pupe", "Satchan", "Tarwaan"],
+    "center": ["Music", "Noey"],
+    "album": "Shonichi",
+    "status": "Main"
   },
   {
-    "id":8,
-    "songname":"Sakura no Hanabiratachi",
-    "nativesongname":"ความทรงจำและคำอำลา",
-    "lauchdate":null,
-    "senbatsu":null,
-    "center":null,
-    "album":"Shonichi",
-    "status":"Support"
+    "id": 8,
+    "songname": "Sakura no Hanabiratachi",
+    "nativesongname": "ความทรงจำและคำอำลา",
+    "lauchdate": null,
+    "senbatsu": null,
+    "center": null,
+    "album": "Shonichi",
+    "status": "Support"
   },
   {
-    "id":9,
-    "songname":"Namida Surprise",
-    "nativesongname":"ประกายน้ำตาและรอยยิ้ม",
-    "lauchdate":"28-03-2018",
-    "senbatsu":["Tarwaan","Cherprang","Can","Izurina","Jennis","Kate","Korn"
-               ,"Miori","Mobile","Music","Namsai","Noey","Orn","Pun","Nink"
-               ,"Piam"],
-    "center":"Tarwaan",
-    "album":"Shonichi",
-    "status":"Support"
+    "id": 9,
+    "songname": "Namida Surprise",
+    "nativesongname": "ประกายน้ำตาและรอยยิ้ม",
+    "lauchdate": "28-03-2018",
+    "senbatsu": ["Tarwaan", "Cherprang", "Can", "Izurina", "Jennis", "Kate", "Korn", "Miori", "Mobile", "Music", "Namsai", "Noey", "Orn", "Pun", "Nink", "Piam"],
+    "center": "Tarwaan",
+    "album": "Shonichi",
+    "status": "Support"
   },
   {
-    "id":10,
-    "songname":"Anata to Chrismas Eve",
-    "nativesongname":"คำสัญญาแห่งคริสต์มาสอีฟ",
-    "lauchdate":"28-03-2018",
-    "unit":["Kaew","Jan"],
-    "album":"Shonichi",
-    "status":"Support"
+    "id": 10,
+    "songname": "Anata to Chrismas Eve",
+    "nativesongname": "คำสัญญาแห่งคริสต์มาสอีฟ",
+    "lauchdate": "28-03-2018",
+    "unit": ["Kaew", "Jan"],
+    "album": "Shonichi",
+    "status": "Support"
   },
   {
-    "id":11,
-    "songname":"River",
-    "nativesongname":"River",
-    "lauchdate":null,
-    "senbatsu":["Orn","Kaew","Noey","Namnueng","Tarwaan","Korn","Cherprang","Pun"
-               ,"Jennis","Music","Mobile","Pupe","Jane","Can","Piam","Namsai"],
-    "center":"Orn",
-    "album":"River",
-    "status":"Main"
+    "id": 11,
+    "songname": "River",
+    "nativesongname": "River",
+    "lauchdate": null,
+    "senbatsu": ["Orn", "Kaew", "Noey", "Namnueng", "Tarwaan", "Korn", "Cherprang", "Pun", "Jennis", "Music", "Mobile", "Pupe", "Jane", "Can", "Piam", "Namsai"],
+    "center": "Orn",
+    "album": "River",
+    "status": "Main"
   },
   {
-    "id":12,
-    "songname":"ชู้กะชู้",
-    "nativesongname":"ชู้กะชู้",
-    "lauchdate":"12-03-2018",
-    "unitmember":["Cherprang","Tarwaan","Jennis","Pupe","Noey","Kate","Jane","Namnueng"
-                 ,"Miori","Jaa","Kaew","Can","Mind","Orn","Namsai","Music","Pun","Mobile"
-                 ,"Izurina","Jib","Korn","Kaimook","Satchan","Nink","Piam","Maysa"],
-    "album":null,
-    "status":"Collaboration",
-    "collabwith":"Aeh Syndrome"
+    "id": 12,
+    "songname": "ชู้กะชู้",
+    "nativesongname": "ชู้กะชู้",
+    "lauchdate": "12-03-2018",
+    "unitmember": ["Cherprang", "Tarwaan", "Jennis", "Pupe", "Noey", "Kate", "Jane", "Namnueng", "Miori", "Jaa", "Kaew", "Can", "Mind", "Orn", "Namsai", "Music", "Pun", "Mobile", "Izurina", "Jib", "Korn", "Kaimook", "Satchan", "Nink", "Piam", "Maysa"],
+    "album": null,
+    "status": "Collaboration",
+    "artist": "Aeh Syndrome"
+  },
+  {
+    "id": 13,
+    "songname": "Keep Going",
+    "nativesongname": "",
+    "lauchdate": "",
+    "unitmember": ["Orn"],
+    "album": null,
+    "status": "Collaboration",
+    "artist": "Boom Boom Cash"
+  },
+  {
+    "id": 14,
+    "songname": "Tit Talok",
+    "nativesongname": "ติดตลก",
+    "lauchdate": "",
+    "unitmember": ["Jane"],
+    "album": null,
+    "status": "Collaboration",
+    "artist": "Pramote Pathan"
+  },
+  {
+    "id": 15,
+    "songname": "Kimi wa Melody",
+    "nativesongname": "เธอคือ...เมโลดี้",
+    "lauchdate": "21-09-2018",
+    "unitmember": [],
+    "album": null,
+    "status": "Main"
+  },
+  {
+    "id": 16,
+    "songname": "Tsugi no Season",
+    "nativesongname": "ฤดูใหม่",
+    "lauchdate": "",
+    "unitmember": [],
+    "album": null,
+    "status": "Support"
+  },
+  {
+    "id": 17,
+    "songname": "Yume e no Route",
+    "nativesongname": "หมื่นเส้นทาง",
+    "lauchdate": "",
+    "unitmember": [],
+    "album": null,
+    "status": "Support"
+  },
+  {
+    "id": 18,
+    "songname": "BNK Festival",
+    "nativesongname": "บีเอ็นเค เฟสติวัล",
+    "lauchdate": "22-11-2018",
+    "unitmember": [],
+    "album": null,
+    "status": "Main"
+  },
+  {
+    "id": 19,
+    "songname": "Mata Anata no Koto wo Kangaeteta",
+    "nativesongname": "คิดถึง...อีกแล้ว",
+    "lauchdate": "",
+    "unitmember": [],
+    "album": null,
+    "status": "Support"
+  },
+  {
+    "id": 20,
+    "songname": "Temodemo no Namida",
+    "nativesongname": "ถึงแม้จะมีน้ำตา",
+    "lauchdate": "",
+    "unitmember": [],
+    "album": null,
+    "status": "Support",
+  },
+  {
+    "id": 21,
+    "songname": "Tomodachi Janai Ka?",
+    "nativesongname": "友達じゃないか？",
+    "lauchdate": "",
+    "unitmember": ["Cherprang"],
+    "album": null,
+    "status": "Collaboration",
+    "artist": "AKB48"
+  },
+  {
+    "id": 22,
+    "songname": "Hito natsu no deki goto",
+    "nativesongname": "ひと夏の出来事",
+    "lauchdate": "",
+    "unitmember": ["Music"],
+    "album": null,
+    "status": "Collaboration",
+    "artist": "AKB48"
+  },
+  {
+    "id": 23,
+    "songname": "Kokoro Daisuki Cocottama!",
+    "nativesongname": "",
+    "lauchdate": "",
+    "unitmember": ["Music"],
+    "album": null,
+    "status": "Event",
+    "description": "OST."
+  },
+  {
+    "id": 24,
+    "songname": "Light or Night",
+    "nativesongname": "",
+    "lauchdate": "",
+    "unitmember": ["Noey","Orn","Kaew","Satchan","Jib","June"],
+    "album": null,
+    "status": "Event",
+    "description": "OST."
   }
 ]
